@@ -185,8 +185,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 # SOCIALACCOUNT_PROVIDERS = {
 #     'google': {
 #         'APP': {
-#             'client_id': '197646807484-25cqldbcpkevgfatc0v7muvc1r0qfca0.apps.googleusercontent.com',
-#             'secret': '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 ',
+#             'client_id': '',
+#             'secret': '',
 #             'key': ''
 #         }
 #     }
